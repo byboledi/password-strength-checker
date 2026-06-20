@@ -1,49 +1,36 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
-# 🔐 Password Strength Checker
+# 🔐 Password Security Toolkit
 
-A Python application that evaluates password strength based on common security practices.
+A Python desktop application designed to help users create stronger passwords and improve their online security through an intuitive graphical interface.
 
-## ✨ Features
+## Features
 
-- Checks if the password is at least 8 characters long
-- Detects uppercase letters
-- Detects lowercase letters
-- Detects numbers
-- Detects special characters
-- Classifies passwords as Weak, Medium, or Strong
+- 🔍 Password strength analysis
+- 📊 Real-time password strength meter
+- 🔑 Secure password generator
+- 💡 Password improvement suggestions
+- 🌙 Dark mode
+- 📋 Copy generated password
+- 🖥️ Interactive graphical user interface (GUI)
 
-## 🛠️ Built With
+## Technologies Used
 
 - Python
+- Tkinter
 
-## 🚀 Getting Started
+## Why I Built This
 
-1. Run the program.
-2. Enter a password when prompted.
-3. View the password strength rating.
+I built this project to strengthen my Python programming skills while learning about GUI development and password security. The application combines multiple security-focused features into a single desktop tool.
 
-## 📌 Example
+## Future Improvements
 
-Input:
-```
-Hello@123
-```
+- Password breach detection using public APIs
+- Password history
+- Export generated passwords
+- Custom themes
+- Settings page
 
-Output:
-```
-🟢 Strong Password
-```
-
-## 🎯 Future Improvements
-
-- Display a password strength score
-- Provide suggestions to improve weak passwords
-- Add a visual strength meter
-- Build a graphical user interface (GUI)
-
-## 👨‍💻 Author
+## Author
 
 Built by **Boledi**
-
-GitHub: **byboledi**
